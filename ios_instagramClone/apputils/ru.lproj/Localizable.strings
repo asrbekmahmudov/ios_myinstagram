@@ -1,0 +1,14 @@
+
+"app_name" = "Instagram";
+"email" = "Эл.адрес";
+"password" = "Пароль";
+"cpassword" = "Подтвердите пароль";
+"fullname" = "Полное имя";
+"sign_in" = "Войти";
+"sign_up" = "Регистрация";
+"dont_have_account" = "Нет аккаунт?";
+"already_have_account" = "Уже есть аккаунт?";
+"signout" = "Выход";
+"signout_permission" = "Вы хотите выйти?";
+"email_password_validation_error" = "Исправьте ошибку в электронном письме или пароле";
+"post_delete_permission" = "Вы хотите удалить сообщение?";
